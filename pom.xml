@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>pipline</name>
+	      <name>fb_relase</name>
 	      <url>http://3.235.190.197:8081/repository/fb_relase//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>fb_snap</name>
 	      <url>http://3.235.190.197:8081/repository/fb_snap/</url>
 	    </snapshotRepository>
 	    
